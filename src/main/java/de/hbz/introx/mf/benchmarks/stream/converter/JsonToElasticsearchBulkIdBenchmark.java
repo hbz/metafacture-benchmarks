@@ -1,4 +1,4 @@
-package de.hbz.introx.mf.benchmarks;
+package de.hbz.introx.mf.benchmarks.stream.converter;
 
 import de.hbz.introx.mf.stream.converter.JsonToElasticsearchBulkIdKeyOriginal;
 import de.hbz.introx.mf.stream.converter.JsonToElasticsearchBulkIdKeyPointer;
